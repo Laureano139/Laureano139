@@ -1,6 +1,6 @@
 ### Hi there 👋
 
--> 🌱 I’m currently learning C and Java.
+-> 🌱 I’m currently learning Java, Python and HTML+CSS.
 
 -> 📫 How to reach me: @dr1kz139
 
