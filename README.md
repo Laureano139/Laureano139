@@ -4,7 +4,7 @@
 
 -> 📫 How to reach me: @dr1kz139
 
--> 🔭 I’m currently working on my portfolio (using html, css and js)
+-> 🔭 I’m currently working on my portfolio (using html, css and js) => You can see how the project is going on my github page: https://laureano139.github.io/
 
 ->⚡ Fun fact: FC Porto fanatic
 
