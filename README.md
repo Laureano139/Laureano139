@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
--> 🌱 I’m currently learning Electron.<br><br>-> 📫 How to reach me: @dr1kz139<br><br>-> 🔭 I’m currently working on my portfolio (using html, css and js) => You can see how the project is going on my github page: https://laureano139.github.io/<br><br>->⚡ Fun fact: FC Porto fanatic
+-> 🌱 I’m currently learning React.JS.<br><br>-> 📫 How to reach me: @dr1kz139<br><br>-> 🔭 I’m currently working on my portfolio (using html, css and js) => You can see how the project is going on my github page: https://laureano139.github.io/<br><br>->⚡ Fun fact: FC Porto fanatic
 
 
 ## 🌐 Socials:
